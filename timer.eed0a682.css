@@ -1,0 +1,2 @@
+body{background-color:#a3cfda;text-align:center;color:#0825ca;font-size:40px}input{width:400px;padding:0 10px;border:3px solid #fff}button,input{height:50px;font-size:20px}button{width:100px;color:#d3ecec;border:none;cursor:pointer;background-color:#0825ca}.disabled{background-color:#fff;color:#0825ca}.timer{display:flex;justify-content:center;margin-top:30px}.field{display:flex;flex-direction:column;margin-right:20px}.value{font-size:80px}.label{font-size:15px}
+/*# sourceMappingURL=/goit-js-hw-09/timer.eed0a682.css.map */
